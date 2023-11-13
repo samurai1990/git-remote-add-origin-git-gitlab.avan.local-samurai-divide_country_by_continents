@@ -1,0 +1,17 @@
+# dir
+continents
+countries
+
+
+# log
+*.log
+
+# app
+sort-countries
+
+# vscode
+.vscode
+
+# files
+conf.yaml
+countries.tgz
